@@ -12,7 +12,7 @@ O projeto SAP-1.6 é uma modificação do SAP-1 implementando uma Entrada de 8 B
 
 ## Vídeo Explicativo:
 
-[SAP-1.6 - Apresentação do Projeto](www.youtube.com/watch?v=kW5miIs-5SU)
+[SAP-1.6 - Apresentação do Projeto](https://www.youtube.com/watch?v=kW5miIs-5SU)
 
 ## Professor Responsável:
 
